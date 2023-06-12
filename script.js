@@ -1,0 +1,1 @@
+const isometric = new IsometricCanvas();

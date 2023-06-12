@@ -1,0 +1,7 @@
+Aim: Make simulator for right-angled triangle square pyramid
+Key learning: Height is the same. Base is the same area.
+
+
+Step 1:
+Figure out how to use: 
+https://elchininet.github.io/isometric-css/ 
